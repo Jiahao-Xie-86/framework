@@ -5,6 +5,7 @@ Description of each file:
 - **`train.py`:** Script for training the model.  
 - **`model.py`:** The definition of the model.  
 - **`utils.py`:** Utility functions used throughout the project, such as viualization function.  
-- **`dataset.zip`:** Manages dataset loading and preprocessing.  
+- **`dataset.py`:** Manages dataset loading and preprocessing.
+- **`dataset.zip`:** All the datasets used in our experiments are included here.  
 - **`baselines/`:** Directory for baseline implementations. including the VN-Solver, Graphormer, Naive bayes and Random baseline. 
 
